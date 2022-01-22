@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnunayKashyap
--✍🏻 Perusing B-tech from Haldia Institute Of Technology 
+- ✍🏻 Perusing B-tech from Haldia Institute Of Technology 
 - 👀 I’m interested in ...Web Development and Machine Learning 
 - 🌱 I’m currently learning ... Java & Cloud Computing 
 - 💞️ I’m looking to collaborate on ... Web Development projects 
