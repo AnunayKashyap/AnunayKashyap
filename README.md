@@ -13,6 +13,8 @@ A Passionate FrontEnd Developer from India
 * 🧠  I'm learning React.js
 * ⚡  Learn - Code - Deploy
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <a href="https://www.twitter.com/anunay_kashyap" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/anunay_kashyap?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/AnunayKashyap" target="_blank" rel="noreferrer"><img
